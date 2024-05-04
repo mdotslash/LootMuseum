@@ -5,7 +5,7 @@ Workshop Slides for "How to Rob A Museum" [here]([url](https://docs.google.com/p
 
 **Downloads**
 
-- Image Dataset ([jpg]([url](https://drive.google.com/file/d/1S4JdIf-50T0ilusIi0MxilSau4Piqxhn/view?usp=sharing)))
+- Image Dataset ([jpg](https://drive.google.com/file/d/1S4JdIf-50T0ilusIi0MxilSau4Piqxhn/view?usp=sharing)
 - Photos to 3D Model ([Polycam]([url](https://poly.cam/tools/photogrammetry)))
 
 Open-Source Photogrammetry Resources (TBC)
