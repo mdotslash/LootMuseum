@@ -7,5 +7,5 @@
 - Image Dataset ([jpg](https://drive.google.com/file/d/1S4JdIf-50T0ilusIi0MxilSau4Piqxhn/view?usp=sharing))
 - Polycam Photos to 3D Model ([Polycam](https://poly.cam/tools/photogrammetry))
 
-Open-Source Photogrammetry Resources (TBC)
+**Open-Source Photogrammetry Resources (TBC)**
 - [Software](https://github.com/awesome-photogrammetry/awesome-photogrammetry)
