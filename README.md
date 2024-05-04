@@ -1,5 +1,5 @@
 # LootMuseum
-Workshop Slides for "How to Rob A Museum" [here]([url](https://docs.google.com/presentation/d/1w-lxLgk1osp9CZQZUg-J9M_R5kNuHWsYMYiVCrFzqvk/edit?usp=sharing))
+Workshop Slides for "How to Rob A Museum" [here]((https://docs.google.com/presentation/d/1w-lxLgk1osp9CZQZUg-J9M_R5kNuHWsYMYiVCrFzqvk/edit?usp=sharing))
 
 
 
@@ -9,4 +9,4 @@ Workshop Slides for "How to Rob A Museum" [here]([url](https://docs.google.com/p
 - Photos to 3D Model ([Polycam](https://poly.cam/tools/photogrammetry))
 
 Open-Source Photogrammetry Resources (TBC)
-- [Software]((https://github.com/awesome-photogrammetry/awesome-photogrammetry))
+- [Software](https://github.com/awesome-photogrammetry/awesome-photogrammetry)
