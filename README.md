@@ -1,6 +1,7 @@
 # LootMuseum
-Workshop Slides for "How to Rob A Museum" [here]((https://docs.google.com/presentation/d/1w-lxLgk1osp9CZQZUg-J9M_R5kNuHWsYMYiVCrFzqvk/edit?usp=sharing))
+Workshop Slides for "How to Rob A Museum" [here](https://docs.google.com/presentation/d/1w-lxLgk1osp9CZQZUg-J9M_R5kNuHWsYMYiVCrFzqvk/edit?usp=sharing))
 
+![Loot-Artifects](https://github.com/mdotslash/LootMuseum/assets/5124935/2b5381dc-1d8e-4e38-9ca2-022a9c3f9908)
 
 
 **Downloads**
